@@ -30,14 +30,11 @@ No soy partidario de sistemas privativos, pero tampoco me gusta discriminar así
 · Ejecuta el comando:  
 py B_O_S_Installer.py o python B_O_S_Installer.py  
 · El programa se ejecutará inmediatamente. 
-# Grupo DIscord para nuestra comunidad.
-![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fasgardgaming.se%2Fwp-content%2Fuploads%2F2017%2F08%2Fderp-300x240.png&f=1&nofb=1) Entrar -> https://discord.gg/ShKjFfe
+
 # Imágenes usadas para el diseño gráfico:  
 Las imágenes que he usado como base del trabajo gráfico en la aplicación son extraídas de la librería online Pixabay.com  
 Están modificadas y diseñadas por el autor del programa pero aún así se debe agradecer la base de las mismas a sus autores.
-# Licencia Creative Commons: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-Programa bajo licencia Creative Commons y autoría de Alexandre Varela Sixto.  
-OffShell System es una marca registrada y este programa pertenece a su creador.  
+# Licencia Creative Commons: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
 Enlace a las características y usos permitidos de la licencia y programa: https://creativecommons.org/licenses/by-nc-sa/4.0/  
 
 ![alt text](https://co.creativecommons.org/wp-content/uploads/2008/02/by-nc-nd.png)
